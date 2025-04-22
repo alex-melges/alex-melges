@@ -23,10 +23,10 @@ Wanna connect and get to know me better? Follow me on LinkedIn or Instagram! ðŸ‘
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alexmelgesbarbosa/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="30" style="margin-right: 20px;" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" style="margin-right: 50px;" />
   </a>
   <a href="https://www.instagram.com/alex_melges/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="30" />
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" />
   </a>
 </div>
 
@@ -74,6 +74,8 @@ Wanna connect and get to know me better? Follow me on LinkedIn or Instagram! ðŸ‘
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
+
+<hr style="width: 80%; margin: 20px auto; border: 1px solid #ccc;">
 
 ### ðŸ“Š Alex's GitHub Stats
 
