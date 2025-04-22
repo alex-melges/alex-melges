@@ -23,7 +23,7 @@ Wanna connect and get to know me better? Follow me on LinkedIn or Instagram! ğŸ‘
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alexmelgesbarbosa/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" style="margin-right: 10px;" />
   </a>
   <a href="https://www.instagram.com/alex_melges/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
@@ -32,10 +32,22 @@ Wanna connect and get to know me better? Follow me on LinkedIn or Instagram! ğŸ‘
 
 ### ğŸ“ˆ GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alex-melges&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Alex's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-melges&layout=compact&langs_count=8&theme=radical" alt="Linguagens mais usadas" />
-</div>
+## ğŸ“Š Alex's GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/alex-melges">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=alex-melges&theme=prussian&show_icons=true&hide_border=true&count_private=true&rank_icon=github">
+      <img src="https://github-readme-stats.vercel.app/api?username=alex-melges&show_icons=true&hide_border=true&count_private=true&rank_icon=github" alt="alex-melges's GitHub Stats" height="165">
+    </picture>
+  </a>
+  <a href="https://github.com/alex-melges">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-melges&layout=compact&theme=prussian&hide_border=true&langs_count=6&card_width=320">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-melges&layout=compact&hide_border=true&langs_count=6&card_width=320" alt="alex-melges's Top Languages" height="165">
+    </picture>
+  </a>
+</p>
 
 ### ğŸ§  Programming Languages
 <p>
