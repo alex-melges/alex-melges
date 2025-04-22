@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1000&color=002244&center=true&vCenter=true&width=600&lines=Mathematician%2C+technologist+and+coffee+addict.;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=36&pause=1000&color=002244&center=true&vCenter=true&width=700&lines=Mathematician%2C+technologist+and+coffee+addict.;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </h1>
 
 <p align="right">
@@ -23,16 +23,24 @@ Wanna connect and get to know me better? Follow me on LinkedIn or Instagram! �
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alexmelgesbarbosa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A285F?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A285F?style=for-the-badge&logo=linkedin&logoColor=white&size=50" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/alex_melges" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0A285F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/-Instagram-0A285F?style=for-the-badge&logo=instagram&logoColor=white&size=50" alt="Instagram" />
   </a>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alex-melges&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-melges&layout=compact&langs_count=8&theme=radical" alt="Linguagens mais usadas" />
+  <div style="display: flex; justify-content: space-around; gap: 20px;">
+    <div style="width: 48%; text-align: center; border: 2px solid #002244; padding: 10px; border-radius: 10px;">
+      <h3>Alex's GitHub Stats</h3>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alex-melges&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" />
+    </div>
+    <div style="width: 48%; text-align: center; border: 2px solid #002244; padding: 10px; border-radius: 10px;">
+      <h3>Most Used Languages</h3>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-melges&layout=compact&langs_count=8&theme=radical" alt="Most Used Languages" />
+    </div>
+  </div>
 </p>
 
 ### 🧠 Programming Languages
