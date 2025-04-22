@@ -21,19 +21,21 @@ Even though I’m not a professional developer, I love learning new things. So h
 
 Wanna connect and get to know me better? Follow me on LinkedIn or Instagram! 👇
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/alexmelgesbarbosa/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A285F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.instagram.com/alex_melges" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-0A285F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.instagram.com/alex_melges/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-</p>
+</div>
 
-<p align="center">
+### 📈 GitHub Stats
+
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alex-melges&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Alex's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-melges&layout=compact&langs_count=8&theme=radical" alt="Linguagens mais usadas" />
-</p>
+</div>
 
 ### 🧠 Programming Languages
 <p>
