@@ -6,10 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=alex-melges&label=Visitors&color=002244&style=flat" alt="Profile views" />
 </p>
 
-<p align="right">
-  <a href="URL-DA-VERSÃO-EM-PORTUGUÊS" target="_blank">View this profile in Portuguese 🇧🇷</a>
-</p>
-
 ## Hi there, I'm Alex Melges Barbosa 👋
 
 I have a degree in Mathematics and, yep, I went a little further — I earned a PhD in it too.  
