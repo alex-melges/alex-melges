@@ -35,10 +35,8 @@ Wanna connect and get to know me better? Follow me on LinkedIn or Instagram! ðŸ‘
   <img src="https://img.shields.io/badge/C%23-1?style=plastic&logo=csharp&logoColor=white&labelColor=%23444444&color=%23444444" style="height: 30px;" />
 
   <img src="https://img.shields.io/badge/LaTeX-1?style=plastic&logo=latex&logoColor=%234169E1&labelColor=%23444444&color=%23444444" style="height: 30px;" />
-  <img src="https://img.shields.io/badge/HTML5-1?style=plastic&logo=html5&logoColor=orange&labelColor=%23444444&color=%23444444
-  " style="height: 30px;" />
-  <img src="https://img.shields.io/badge/CSS3-1?style=plastic&logo=css3&logoColor=blue&labelColor=%23444444&color=%23444444
-  " style="height: 30px;" />
+  <img src="https://img.shields.io/badge/HTML5-1?style=plastic&logo=html5&logoColor=orange&labelColor=%23444444&color=%23444444" style="height: 30px;" />
+  <img src="https://img.shields.io/badge/CSS3-1?style=plastic&logo=css3&logoColor=blue&labelColor=%23444444&color=%23444444" style="height: 30px;" />
 </p>
 
 ### ðŸ§© Frameworks & Libraries
