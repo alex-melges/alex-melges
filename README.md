@@ -30,8 +30,8 @@ Wanna connect and get to know me better? Follow me on LinkedIn or Instagram! ğŸ‘
 
 ### ğŸ§  Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-1?style=plastic&logo=Python&logoSize=amg&labelColor=%23444444&color=%23444444"/>
-  <img src="https://img.shields.io/badge/JavaScript-1?style=plastic&logo=javascript&logoSize=amg&labelColor=%23444444&color=%23444444"/>
+  <img src="https://img.shields.io/badge/Python-1?style=plastic&logo=Python&labelColor=%23444444&color=%23444444" style="height: 40px;" />
+  <img src="https://img.shields.io/badge/JavaScript-1?style=plastic&logo=javascript&labelColor=%23444444&color=%23444444" style="height: 30px;"/>
   <img src="https://img.shields.io/badge/C%23-1?style=plastic&logo=csharp&logoColor=white&labelColor=%23444444&color=%23444444" style="height: 20px;" />
 
   <img src="https://img.shields.io/badge/LaTeX-1?style=plastic&logo=latex&logoColor=%234169E1&logoSize=amg&labelColor=%23444444&color=%23444444"/>
