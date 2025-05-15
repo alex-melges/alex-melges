@@ -41,35 +41,43 @@ Wanna connect and get to know me better? Follow me on LinkedIn or Instagram! �
 
 ### 🧩 Frameworks & Libraries
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-1?style=plastic&logo=react&logoColor=blue&labelColor=%23444444&color=%23444444" style="height: 30px;" />
+  <img src="https://img.shields.io/badge/TailwindCSS-1?style=plastic&logo=tailwindcss&logoColor=blue&labelColor=%23444444&color=%23444444" style="height: 30px;" />
 </p>
 
 ### 🗄️ Databases
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-1?style=plastic&logo=oracle&logoColor=white&labelColor=%23444444&color=%23444444" style="height: 30px;" />
+  <img src="https://img.shields.io/badge/SQLite-1?style=plastic&logo=sqlite&logoColor=blue&labelColor=%23444444&color=%23444444" style="height: 30px;" />
+  <img src="https://img.shields.io/badge/MySQL-1?style=plastic&logo=mysql&logoColor=blue&labelColor=%23444444&color=%23444444" style="height: 30px;" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1?style=plastic&logo=postgresql&logoColor=blue&labelColor=%23444444&color=%23444444" style="height: 30px;" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-1?style=plastic&logo=mssql&logoColor=blue&labelColor=%23444444&color=%23444444" style="height: 30px;" />
 </p>
 
 ### 🛠️ BI, DevOps & Tools
 <p>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-1?style=plastic&logo=Microsoft%20Excel&logoColor=blue&labelColor=%23444444&color=%23444444" style="height: 30px;" />
+  <img src="https://img.shields.io/badge/Microsoft%20Power%20BI-1?style=plastic&logo=Microsoft%20Excel&logoColor=blue&labelColor=%23444444&color=%23444444" style="height: 30px;" />
+  <img src="https://img.shields.io/badge/Jenkins-1?style=plastic&logo=jenkins&logoColor=red&labelColor=%23444444&color=%23444444" style="height: 30px;" />
 </p>
 
-### ⚙️ Productivity & Version Control
+### ⚙️ Version Control
 <p>
-  <img src="https://img.shields.io/badge/Git-1?style=plastic&logo=git&logoColor=red&logoSize=amg&labelColor=%23444444&color=%23444444"/>
-  <img src="https://img.shields.io/badge/GitHub-1?style=plastic&logo=github&logoColor=white&logoSize=amg&labelColor=%23444444&color=%23444444"/>
-  <img src="https://img.shields.io/badge/GitLab-1?style=plastic&logo=gitlab&logoColor=orange&logoSize=amg&labelColor=%23444444&color=%23444444"/>
+  <img src="https://img.shields.io/badge/Git-1?style=plastic&logo=git&logoColor=red&logoSize=amg&labelColor=%23444444&color=%23444444" style="height: 30px;" />
+  <img src="https://img.shields.io/badge/GitHub-1?style=plastic&logo=github&logoColor=white&logoSize=amg&labelColor=%23444444&color=%23444444" 
+  style="height: 30px;" />
+  <img src="https://img.shields.io/badge/GitLab-1?style=plastic&logo=gitlab&logoColor=orange&logoSize=amg&labelColor=%23444444&color=%23444444" 
+  style="height: 30px;" />
 </p>
 
-### 📚 Other Tools
+### 📚 Productivity & Other Tools
 <p>
-  <img src="https://img.shields.io/badge/Linux-1?style=plastic&logo=linux&logoColor=black&logoSize=amg&labelColor=%23444444&color=%23444444"/>
-  <img src="https://img.shields.io/badge/Notion-1?style=plastic&logo=notion&logoColor=black&logoSize=amg&labelColor=%23444444&color=%23444444"/>
+  <img src="https://img.shields.io/badge/Jira-1?style=plastic&logo=jira&logoColor=blue&labelColor=%23444444&color=%23444444" style="height: 30px;" />
+  <img src="https://img.shields.io/badge/Trello-1?style=plastic&logo=trello&logoColor=blue&labelColor=%23444444&color=%23444444" style="height: 30px;" />
+  <img src="https://img.shields.io/badge/Notion-1?style=plastic&logo=notion&logoColor=black&logoSize=amg&labelColor=%23444444&color=%23444444" 
+  style="height: 30px;" />
+  <img src="https://img.shields.io/badge/Linux-1?style=plastic&logo=linux&logoColor=black&logoSize=amg&labelColor=%23444444&color=%23444444" style="height: 30px;" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-1?style=plastic&logo=Visual%20Studio%20Code&logoColor=blue&labelColor=%23444444&color=%23444444" style="height: 30px;" />
 </p>
 
 <hr style="width: 80%; margin: 20px auto; border: 1px solid #ccc;">
