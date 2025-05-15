@@ -30,9 +30,10 @@ Wanna connect and get to know me better? Follow me on LinkedIn or Instagram! ðŸ‘
 
 ### ðŸ§  Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-1?style=plastic&logo=Python&logoSize=amg&labelColor=%23444444&color=%23444444"/>
+  <img src="https://img.shields.io/badge/JavaScript-1?style=plastic&logo=javascript&logoSize=amg&labelColor=%23444444&color=%23444444"/>
+  <img src="https://img.shields.io/badge/C%23-1?style=plastic&logo=csharp&logoColor=white&labelColor=%23444444&color=%23444444" style="height: 20px;" />
+
   <img src="https://img.shields.io/badge/LaTeX-1?style=plastic&logo=latex&logoColor=%234169E1&logoSize=amg&labelColor=%23444444&color=%23444444"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
