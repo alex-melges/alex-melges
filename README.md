@@ -33,6 +33,7 @@ Wanna connect and get to know me better? Follow me on LinkedIn or Instagram! �
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LaTeX-1?style=plastic&logo=latex&logoColor=%234169E1&logoSize=amg&labelColor=%23444444&color=%23444444"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
@@ -59,16 +60,15 @@ Wanna connect and get to know me better? Follow me on LinkedIn or Instagram! �
 
 ### ⚙️ Productivity & Version Control
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-1?style=plastic&logo=git&logoColor=red&logoSize=amg&labelColor=%23444444&color=%23444444"/>
+  <img src="https://img.shields.io/badge/GitHub-1?style=plastic&logo=github&logoColor=white&logoSize=amg&labelColor=%23444444&color=%23444444"/>
+  <img src="https://img.shields.io/badge/GitLab-1?style=plastic&logo=gitlab&logoColor=orange&logoSize=amg&labelColor=%23444444&color=%23444444"/>
 </p>
 
-### 📚 Academic & OS Tools
+### 📚 Other Tools
 <p>
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Linux-1?style=plastic&logo=linux&logoColor=black&logoSize=amg&labelColor=%23444444&color=%23444444"/>
+  <img src="https://img.shields.io/badge/Notion-1?style=plastic&logo=notion&logoColor=black&logoSize=amg&labelColor=%23444444&color=%23444444"/>
 </p>
 
 <hr style="width: 80%; margin: 20px auto; border: 1px solid #ccc;">
