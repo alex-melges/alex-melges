@@ -3,26 +3,25 @@
 </h1>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=alex-melges&label=Visitors&color=002244&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=alex-melges&label=Profile%20Views&color=blue&style=plastic" alt="Profile views" />
 </p>
 
-## Hi there, I'm Alex Melges Barbosa 👋
+## Hi! I’m Alex Melges Barbosa — PhD in Mathematics turned Data & Tech professional 👋
 
-I have a degree in Mathematics and, yep, I went a little further — I earned a PhD in it too.  
-But in 2021, my life took a sharp turn when the Fire Nation attacked! 😅 (If you’ve seen *Avatar: The Last Airbender*, you’ll get the reference.)
+After years in academic research, I transitioned to the tech industry and found my place working at the intersection of data, digital products, and process optimization. I’ve led product and data-driven initiatives in large-scale tech environments, using tools like SQL, Power BI, Python and Lean Six Sigma to deliver real impact.
 
-That same year, I decided to dive into the job market and ended up falling in love with the world of Technology! Since then, I’ve been exploring this universe full of innovation, data, and smart solutions.
+Currently, I’m expanding my expertise through an MBA in Data Analysis and Data Science. Here on GitHub, I share personal projects and ideas focused on analytics, automation, and practical applications of data in business contexts.
 
-Even though I’m not a professional developer, I love learning new things. So here I am on GitHub, sharing personal project ideas and maybe even some code for statistical calculations — always as a hobby.
+📌 Not a developer by trade — but passionate about solving complex problems with data, logic, and curiosity.
 
-Wanna connect and get to know me better? Follow me on LinkedIn or Instagram! 👇
+Wanna connect and get to know me better? Follow me on LinkedIn or send me an e-mail! 👇
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/alexmelgesbarbosa/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" style="margin-right: 50px;" />
+  <a href="https://www.linkedin.com/in/alexmelgesbarbosa/" target="_blank" style="margin-right: 20px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
-  <a href="https://www.instagram.com/alex_melges/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" />
+  <a href="mailto:melges.ab@gmail.com" target="_blank" style="margin-left: 20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" />
   </a>
 </div>
 
