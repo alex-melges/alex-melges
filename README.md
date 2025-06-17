@@ -6,22 +6,30 @@
   <img src="https://komarev.com/ghpvc/?username=alex-melges&label=Profile%20Views&color=blue&style=plastic" alt="Profile views" />
 </p>
 
-## Hi! I’m Alex Melges Barbosa — PhD in Mathematics turned Data & Tech professional 👋
+## 👋 Hi! I’m Alex Melges Barbosa — 🎯 Turning data into decisions, with structure, clarity and impact!
 
-After years in academic research, I transitioned to the tech industry and found my place working at the intersection of data, digital products, and process optimization. I’ve led product and data-driven initiatives in large-scale tech environments, using tools like SQL, Power BI, Python and Lean Six Sigma to deliver real impact.
+After a solid academic journey (PhD in Mathematics), I moved into the world of data, business intelligence and digital products. For the past years, I've worked on complex data-driven projects in the financial tech sector, connecting SQL, Power BI, and Python with product strategy and operational excellence.
 
-Currently, I’m expanding my expertise through an MBA in Data Analysis and Data Science. Here on GitHub, I share personal projects and ideas focused on analytics, automation, and practical applications of data in business contexts.
+I'm Lean Six Sigma Green Belt certified and currently pursuing an MBA in Data Analysis and Data Science. My work bridges data modeling, analytics, dashboards, and real business impact — always with a mindset of clarity, logic and iteration.
 
-📌 Not a developer by trade — but passionate about solving complex problems with data, logic, and curiosity.
+Here on GitHub, I share real-world projects focused on:
+- KPIs & dashboards for performance monitoring 📊  
+- Exploratory data analysis and automation in Python 🔍  
+- Strategic BI tools for data-informed decisions 💼  
 
-Wanna connect and get to know me better? Follow me on LinkedIn or send me an e-mail! 👇
+I’m not here to write code for the sake of it — I’m here to solve real problems with data.
 
-<div align="center">
+🔗 Let’s connect:
+
+<div>
   <a href="https://www.linkedin.com/in/alexmelgesbarbosa/" target="_blank" style="margin-right: 20px;">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
   <a href="mailto:melges.ab@gmail.com" target="_blank" style="margin-left: 20px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" />
+  </a>
+  <a href="https://www.datascienceportfol.io/melgesab" target="_blank" style="margin-left: 20px;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" width="40" />
   </a>
 </div>
 
@@ -59,7 +67,7 @@ Wanna connect and get to know me better? Follow me on LinkedIn or send me an e-m
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-1?style=plastic&logo=Visual%20Studio%20Code&logoColor=blue&color=%23444444" style="height: 30px;" />
 </p>
 
-### 🛠️ BI, DevOps & Tools
+### 🛠️ Business Intelligence & DevOps
 <p>
   <img src="https://img.shields.io/badge/Microsoft%20Excel-1?style=plastic&logo=Visual%20Studio%20Code&logoColor=blue&color=%23444444" style="height: 30px;" />
   <img src="https://img.shields.io/badge/Microsoft%20Power%20BI-1?style=plastic&logo=Visual%20Studio%20Code&logoColor=blue&color=%23444444" style="height: 30px;" />
@@ -73,6 +81,7 @@ Wanna connect and get to know me better? Follow me on LinkedIn or send me an e-m
   style="height: 30px;" />
   <img src="https://img.shields.io/badge/GitLab-1?style=plastic&logo=gitlab&logoColor=orange&logoSize=amg&labelColor=%23444444&color=%23444444" 
   style="height: 30px;" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-1?style=plastic&logo=Visual%20Studio%20Code&logoColor=blue&color=%23444444" style="height: 30px;" />
 </p>
 
 ### 📚 Productivity & Other Tools
@@ -82,7 +91,6 @@ Wanna connect and get to know me better? Follow me on LinkedIn or send me an e-m
   <img src="https://img.shields.io/badge/Notion-1?style=plastic&logo=notion&logoColor=black&logoSize=amg&labelColor=%23444444&color=%23444444" 
   style="height: 30px;" />
   <img src="https://img.shields.io/badge/Linux-1?style=plastic&logo=linux&logoColor=black&logoSize=amg&labelColor=%23444444&color=%23444444" style="height: 30px;" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-1?style=plastic&logo=Visual%20Studio%20Code&logoColor=blue&color=%23444444" style="height: 30px;" />
 </p>
 
 <hr style="width: 80%; margin: 20px auto; border: 1px solid #ccc;">
