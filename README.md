@@ -22,13 +22,13 @@ I’m not here to write code for the sake of it — I’m here to solve real pro
 🔗 Let’s connect:
 
 <div>
-  <a href="https://www.linkedin.com/in/alexmelgesbarbosa/" target="_blank" style="margin-right: 20px;">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  <a href="https://www.linkedin.com/in/alexmelgesbarbosa/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" style="margin-right: 50px;" />
   </a>
-  <a href="mailto:melges.ab@gmail.com" target="_blank" style="margin-left: 20px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" />
+  <a href="mailto:melges.ab@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" style="margin-right: 50px;" />
   </a>
-  <a href="https://www.datascienceportfol.io/melgesab" target="_blank" style="margin-left: 20px;">
+  <a href="https://www.datascienceportfol.io/melgesab" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" width="40" />
   </a>
 </div>
